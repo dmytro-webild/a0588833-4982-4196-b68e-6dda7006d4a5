@@ -33,17 +33,11 @@ export default function LandingPage() {
       <NavbarLayoutFloatingOverlay
       navItems={[
         {
-          name: "Home",
-          id: "hero",
-        },
+          name: "Home",          id: "hero"},
         {
-          name: "Services",
-          id: "products",
-        },
+          name: "Services",          id: "products"},
         {
-          name: "Contact",
-          id: "contact",
-        },
+          name: "Contact",          id: "contact"},
       ]}
       brandName="NL FINANCE"
     />
@@ -53,96 +47,50 @@ export default function LandingPage() {
       <HeroBillboardTestimonial
       useInvertedBackground={true}
       background={{
-        variant: "plain",
-      }}
+        variant: "plain"}}
       title="Your Trusted Partner in Financial Freedom"
       description="At NL FINANCE, we provide reliable and fast financial solutions tailored to your unique needs, led by Mr. Jeet Kumar Yadav."
       testimonials={[
         {
-          name: "Anil S.",
-          handle: "@customer",
-          testimonial: "Excellent service and quick approval for my home loan.",
-          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/modern-office-composition-with-businessman_23-2147900141.jpg?_wi=1",
-          imageAlt: "finance banking loan professional desk",
-        },
+          name: "Anil S.",          handle: "@customer",          testimonial: "Excellent service and quick approval for my home loan.",          rating: 5,
+          imageSrc: "http://img.b2bpic.net/free-photo/modern-office-composition-with-businessman_23-2147900141.jpg",          imageAlt: "finance banking loan professional desk"},
         {
-          name: "Priya D.",
-          handle: "@customer",
-          testimonial: "Very transparent and professional team at NL Finance.",
-          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-couple-receiving-keys-their-new-home-from-realtor_23-2148895470.jpg?_wi=1",
-          imageAlt: "finance banking loan professional desk",
-        },
+          name: "Priya D.",          handle: "@customer",          testimonial: "Very transparent and professional team at NL Finance.",          rating: 5,
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-couple-receiving-keys-their-new-home-from-realtor_23-2148895470.jpg",          imageAlt: "finance banking loan professional desk"},
         {
-          name: "Rahul M.",
-          handle: "@customer",
-          testimonial: "Gold loan process was seamless and instant.",
-          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/female-realtor-handshaking-couple-congratulate-them-their-new-house_23-2148895484.jpg?_wi=1",
-          imageAlt: "finance banking loan professional desk",
-        },
+          name: "Rahul M.",          handle: "@customer",          testimonial: "Gold loan process was seamless and instant.",          rating: 5,
+          imageSrc: "http://img.b2bpic.net/free-photo/female-realtor-handshaking-couple-congratulate-them-their-new-house_23-2148895484.jpg",          imageAlt: "finance banking loan professional desk"},
         {
-          name: "Sunita K.",
-          handle: "@customer",
-          testimonial: "They helped me with a mortgage loan with low rates.",
-          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-abstract-with-extruding-blocks_1048-12726.jpg?_wi=1",
-          imageAlt: "finance banking loan professional desk",
-        },
+          name: "Sunita K.",          handle: "@customer",          testimonial: "They helped me with a mortgage loan with low rates.",          rating: 5,
+          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-abstract-with-extruding-blocks_1048-12726.jpg",          imageAlt: "finance banking loan professional desk"},
         {
-          name: "Vikram J.",
-          handle: "@customer",
-          testimonial: "The best financial advisors in Goregaon.",
-          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-man-talking-his-wife-while-using-touchpad-meeting-with-real-estate-agent-office_637285-1140.jpg?_wi=1",
-          imageAlt: "finance banking loan professional desk",
-        },
+          name: "Vikram J.",          handle: "@customer",          testimonial: "The best financial advisors in Goregaon.",          rating: 5,
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-man-talking-his-wife-while-using-touchpad-meeting-with-real-estate-agent-office_637285-1140.jpg",          imageAlt: "finance banking loan professional desk"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/modern-office-composition-with-businessman_23-2147900141.jpg?_wi=2"
+      imageSrc="http://img.b2bpic.net/free-photo/modern-office-composition-with-businessman_23-2147900141.jpg"
       avatars={[
         {
-          src: "http://img.b2bpic.net/free-photo/portrait-smiling-senior-man-holding-smart-phone_23-2147935571.jpg",
-          alt: "Portrait of smiling senior man holding smart phone",
-        },
+          src: "http://img.b2bpic.net/free-photo/portrait-smiling-senior-man-holding-smart-phone_23-2147935571.jpg",          alt: "Portrait of smiling senior man holding smart phone"},
         {
-          src: "http://img.b2bpic.net/free-photo/beautiful-woman-smiling_93675-133804.jpg",
-          alt: "Beautiful woman smiling",
-        },
+          src: "http://img.b2bpic.net/free-photo/beautiful-woman-smiling_93675-133804.jpg",          alt: "Beautiful woman smiling"},
         {
-          src: "http://img.b2bpic.net/free-photo/confident-businessman-working-desk_273609-12807.jpg",
-          alt: "Confident businessman working at the desk",
-        },
+          src: "http://img.b2bpic.net/free-photo/confident-businessman-working-desk_273609-12807.jpg",          alt: "Confident businessman working at the desk"},
         {
-          src: "http://img.b2bpic.net/free-photo/happy-businesswoman_1098-14872.jpg",
-          alt: "Happy businesswoman",
-        },
+          src: "http://img.b2bpic.net/free-photo/happy-businesswoman_1098-14872.jpg",          alt: "Happy businesswoman"},
         {
-          src: "http://img.b2bpic.net/free-photo/smiling-businessman-work_1098-286.jpg",
-          alt: "Smiling businessman at work",
-        },
+          src: "http://img.b2bpic.net/free-photo/smiling-businessman-work_1098-286.jpg",          alt: "Smiling businessman at work"},
       ]}
       marqueeItems={[
         {
-          type: "text",
-          text: "Low Interest Rates",
-        },
+          type: "text",          text: "Low Interest Rates"},
         {
-          type: "text",
-          text: "100% Transparent",
-        },
+          type: "text",          text: "100% Transparent"},
         {
-          type: "text",
-          text: "Quick Approvals",
-        },
+          type: "text",          text: "Quick Approvals"},
         {
-          type: "text",
-          text: "Goregaon Based",
-        },
+          type: "text",          text: "Goregaon Based"},
         {
-          type: "text",
-          text: "Financial Freedom",
-        },
+          type: "text",          text: "Financial Freedom"},
       ]}
     />
   </div>
@@ -152,7 +100,6 @@ export default function LandingPage() {
       useInvertedBackground={false}
       tag="About Us"
       title="Welcome to NL FINANCE"
-      description="Led by the expertise of Mr. Jeet Kumar Yadav, NL Finance is dedicated to simplifying your financial journey. We provide customized loan solutions that empower families and businesses in Mumbai to achieve their dreams with confidence and clarity."
     />
   </div>
 
@@ -164,41 +111,17 @@ export default function LandingPage() {
       useInvertedBackground={true}
       products={[
         {
-          id: "p1",
-          name: "Home Loan",
-          price: "Low Interest",
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-couple-receiving-keys-their-new-home-from-realtor_23-2148895470.jpg?_wi=2",
-        },
+          id: "p1",          name: "Home Loan",          price: "Low Interest",          imageSrc: "http://img.b2bpic.net/free-photo/happy-couple-receiving-keys-their-new-home-from-realtor_23-2148895470.jpg"},
         {
-          id: "p2",
-          name: "Mortgage Loan",
-          price: "Custom Terms",
-          imageSrc: "http://img.b2bpic.net/free-photo/female-realtor-handshaking-couple-congratulate-them-their-new-house_23-2148895484.jpg?_wi=2",
-        },
+          id: "p2",          name: "Mortgage Loan",          price: "Custom Terms",          imageSrc: "http://img.b2bpic.net/free-photo/female-realtor-handshaking-couple-congratulate-them-their-new-house_23-2148895484.jpg"},
         {
-          id: "p3",
-          name: "Gold Loan",
-          price: "Instant Funds",
-          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-abstract-with-extruding-blocks_1048-12726.jpg?_wi=2",
-        },
+          id: "p3",          name: "Gold Loan",          price: "Instant Funds",          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-abstract-with-extruding-blocks_1048-12726.jpg"},
         {
-          id: "p4",
-          name: "Personal Loan",
-          price: "Fast Track",
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-man-talking-his-wife-while-using-touchpad-meeting-with-real-estate-agent-office_637285-1140.jpg?_wi=2",
-        },
+          id: "p4",          name: "Personal Loan",          price: "Fast Track",          imageSrc: "http://img.b2bpic.net/free-photo/happy-man-talking-his-wife-while-using-touchpad-meeting-with-real-estate-agent-office_637285-1140.jpg"},
         {
-          id: "p5",
-          name: "Auto Loan",
-          price: "Easy Pay",
-          imageSrc: "http://img.b2bpic.net/free-photo/businessman-video-conferencing_23-2148738300.jpg",
-        },
+          id: "p5",          name: "Auto Loan",          price: "Easy Pay",          imageSrc: "http://img.b2bpic.net/free-photo/businessman-video-conferencing_23-2148738300.jpg"},
         {
-          id: "p6",
-          name: "Business Loan",
-          price: "Growth Capital",
-          imageSrc: "http://img.b2bpic.net/free-photo/businessmen-with-bills-background-white-columns_1134-521.jpg",
-        },
+          id: "p6",          name: "Business Loan",          price: "Growth Capital",          imageSrc: "http://img.b2bpic.net/free-photo/businessmen-with-bills-background-white-columns_1134-521.jpg"},
       ]}
       title="Our Loan Offerings"
       description="Choose from our wide range of flexible financial products."
@@ -213,29 +136,19 @@ export default function LandingPage() {
       features={[
         {
           icon: CheckCircle,
-          title: "Transparent Process",
-          description: "Clear communication with no hidden fees.",
-        },
+          title: "Transparent Process",          description: "Clear communication with no hidden fees."},
         {
           icon: Clock,
-          title: "Fast Approval",
-          description: "Get your funds disbursed in record time.",
-        },
+          title: "Fast Approval",          description: "Get your funds disbursed in record time."},
         {
           icon: Shield,
-          title: "Safe & Secure",
-          description: "Your documents are handled with the highest security.",
-        },
+          title: "Safe & Secure",          description: "Your documents are handled with the highest security."},
         {
           icon: Users,
-          title: "Expert Guidance",
-          description: "Advice tailored to your unique financial situation.",
-        },
+          title: "Expert Guidance",          description: "Advice tailored to your unique financial situation."},
         {
           icon: Users,
-          title: "Customer-First",
-          description: "We prioritize your needs above all else.",
-        },
+          title: "Customer-First",          description: "We prioritize your needs above all else."},
       ]}
       title="Why Choose Us?"
       description="We ensure every client receives the best financial support."
@@ -247,30 +160,15 @@ export default function LandingPage() {
       useInvertedBackground={true}
       faqs={[
         {
-          id: "1",
-          title: "How to apply?",
-          content: "Visit our Goregaon office with your documents.",
-        },
+          id: "1",          title: "How to apply?",          content: "Visit our Goregaon office with your documents."},
         {
-          id: "2",
-          title: "What documents are required?",
-          content: "Identity proof, address proof, and income documentation.",
-        },
+          id: "2",          title: "What documents are required?",          content: "Identity proof, address proof, and income documentation."},
         {
-          id: "3",
-          title: "Do you offer doorstep service?",
-          content: "Yes, for select loan products and locations.",
-        },
+          id: "3",          title: "Do you offer doorstep service?",          content: "Yes, for select loan products and locations."},
         {
-          id: "4",
-          title: "Is there a prepayment fee?",
-          content: "We offer flexible repayment terms and transparent fee structures.",
-        },
+          id: "4",          title: "Is there a prepayment fee?",          content: "We offer flexible repayment terms and transparent fee structures."},
         {
-          id: "5",
-          title: "How long does it take?",
-          content: "Our streamlined process ensures quick approval, often within 24-48 hours.",
-        },
+          id: "5",          title: "How long does it take?",          content: "Our streamlined process ensures quick approval, often within 24-48 hours."},
       ]}
       sideTitle="Frequently Asked Questions"
       faqsAnimation="blur-reveal"
@@ -284,26 +182,11 @@ export default function LandingPage() {
       useInvertedBackground={false}
       metrics={[
         {
-          id: "m1",
-          value: "1000+",
-          title: "Loans Sanctioned",
-          description: "Happy families served",
-          imageSrc: "http://img.b2bpic.net/free-photo/real-estate-theme-composition_23-2147764193.jpg",
-        },
+          id: "m1",          value: "1000+",          title: "Loans Sanctioned",          description: "Happy families served",          imageSrc: "http://img.b2bpic.net/free-photo/real-estate-theme-composition_23-2147764193.jpg"},
         {
-          id: "m2",
-          value: "100%",
-          title: "Transparent Dealings",
-          description: "Commitment to honesty",
-          imageSrc: "http://img.b2bpic.net/free-photo/golden-abacus-with-chinese-rmb-gold-coins-as-background_1387-2.jpg",
-        },
+          id: "m2",          value: "100%",          title: "Transparent Dealings",          description: "Commitment to honesty",          imageSrc: "http://img.b2bpic.net/free-photo/golden-abacus-with-chinese-rmb-gold-coins-as-background_1387-2.jpg"},
         {
-          id: "m3",
-          value: "24/7",
-          title: "Dedicated Support",
-          description: "Always here for you",
-          imageSrc: "http://img.b2bpic.net/free-photo/businesswoman-presenting-growth-chart-modern-office-setting_23-2152011793.jpg",
-        },
+          id: "m3",          value: "24/7",          title: "Dedicated Support",          description: "Always here for you",          imageSrc: "http://img.b2bpic.net/free-photo/businesswoman-presenting-growth-chart-modern-office-setting_23-2152011793.jpg"},
       ]}
       title="Our Impact"
       description="Helping thousands achieve their dreams."
@@ -316,45 +199,15 @@ export default function LandingPage() {
       useInvertedBackground={true}
       testimonials={[
         {
-          id: "t1",
-          title: "Satisfied!",
-          quote: "NL Finance made my dream home a reality.",
-          name: "Sarah",
-          role: "CEO",
-          imageSrc: "http://img.b2bpic.net/free-photo/joyful-business-woman-with-coffee-cup_23-2148095746.jpg",
-        },
+          id: "t1",          title: "Satisfied!",          quote: "NL Finance made my dream home a reality.",          name: "Sarah",          role: "CEO",          imageSrc: "http://img.b2bpic.net/free-photo/joyful-business-woman-with-coffee-cup_23-2148095746.jpg"},
         {
-          id: "t2",
-          title: "Amazing",
-          quote: "Professional team with great ethics.",
-          name: "John",
-          role: "Owner",
-          imageSrc: "http://img.b2bpic.net/free-photo/person-expressing-appreciation-their-workmates_23-2149430632.jpg",
-        },
+          id: "t2",          title: "Amazing",          quote: "Professional team with great ethics.",          name: "John",          role: "Owner",          imageSrc: "http://img.b2bpic.net/free-photo/person-expressing-appreciation-their-workmates_23-2149430632.jpg"},
         {
-          id: "t3",
-          title: "Very Helpful",
-          quote: "Quick process, highly recommended.",
-          name: "Emma",
-          role: "Manager",
-          imageSrc: "http://img.b2bpic.net/free-photo/business-man-showing-ok-sign_23-2148479592.jpg",
-        },
+          id: "t3",          title: "Very Helpful",          quote: "Quick process, highly recommended.",          name: "Emma",          role: "Manager",          imageSrc: "http://img.b2bpic.net/free-photo/business-man-showing-ok-sign_23-2148479592.jpg"},
         {
-          id: "t4",
-          title: "Great Rates",
-          quote: "Better rates than big banks.",
-          name: "David",
-          role: "Developer",
-          imageSrc: "http://img.b2bpic.net/free-photo/smiling-businessman-with-digital-tablet_1098-651.jpg",
-        },
+          id: "t4",          title: "Great Rates",          quote: "Better rates than big banks.",          name: "David",          role: "Developer",          imageSrc: "http://img.b2bpic.net/free-photo/smiling-businessman-with-digital-tablet_1098-651.jpg"},
         {
-          id: "t5",
-          title: "Fast",
-          quote: "Received funds in 24 hours.",
-          name: "Maria",
-          role: "Doctor",
-          imageSrc: "http://img.b2bpic.net/free-photo/smiling-african-american-girl-sitting-cafe_1262-3083.jpg",
-        },
+          id: "t5",          title: "Fast",          quote: "Received funds in 24 hours.",          name: "Maria",          role: "Doctor",          imageSrc: "http://img.b2bpic.net/free-photo/smiling-african-american-girl-sitting-cafe_1262-3083.jpg"},
       ]}
       title="Client Success Stories"
       description="Hear from our happy customers."
@@ -365,8 +218,7 @@ export default function LandingPage() {
       <ContactCenter
       useInvertedBackground={false}
       background={{
-        variant: "plain",
-      }}
+        variant: "plain"}}
       tag="Contact Us"
       title="Get in Touch with NL FINANCE"
       description="Office Address: Maharashtra, Mumbai-400097, Goregaon(e), opposite of Karnataka Bank. Phone: 9833463127, 9833463192. Email: yjeet20@gmail.com"
@@ -377,29 +229,19 @@ export default function LandingPage() {
       <FooterSimple
       columns={[
         {
-          title: "Company",
-          items: [
+          title: "Company",          items: [
             {
-              label: "About Us",
-              href: "#about",
-            },
+              label: "About Us",              href: "#about"},
             {
-              label: "Contact",
-              href: "#contact",
-            },
+              label: "Contact",              href: "#contact"},
           ],
         },
         {
-          title: "Services",
-          items: [
+          title: "Services",          items: [
             {
-              label: "Home Loan",
-              href: "#products",
-            },
+              label: "Home Loan",              href: "#products"},
             {
-              label: "Gold Loan",
-              href: "#products",
-            },
+              label: "Gold Loan",              href: "#products"},
           ],
         },
       ]}
