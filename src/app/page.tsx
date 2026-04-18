@@ -63,7 +63,7 @@ export default function LandingPage() {
           handle: "@customer",
           testimonial: "Excellent service and quick approval for my home loan.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/modern-office-composition-with-businessman_23-2147900141.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/modern-office-composition-with-businessman_23-2147900141.jpg?_wi=1",
           imageAlt: "finance banking loan professional desk",
         },
         {
@@ -71,7 +71,7 @@ export default function LandingPage() {
           handle: "@customer",
           testimonial: "Very transparent and professional team at NL Finance.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-couple-receiving-keys-their-new-home-from-realtor_23-2148895470.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-couple-receiving-keys-their-new-home-from-realtor_23-2148895470.jpg?_wi=1",
           imageAlt: "finance banking loan professional desk",
         },
         {
@@ -79,7 +79,7 @@ export default function LandingPage() {
           handle: "@customer",
           testimonial: "Gold loan process was seamless and instant.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/female-realtor-handshaking-couple-congratulate-them-their-new-house_23-2148895484.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/female-realtor-handshaking-couple-congratulate-them-their-new-house_23-2148895484.jpg?_wi=1",
           imageAlt: "finance banking loan professional desk",
         },
         {
@@ -87,7 +87,7 @@ export default function LandingPage() {
           handle: "@customer",
           testimonial: "They helped me with a mortgage loan with low rates.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-abstract-with-extruding-blocks_1048-12726.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-abstract-with-extruding-blocks_1048-12726.jpg?_wi=1",
           imageAlt: "finance banking loan professional desk",
         },
         {
@@ -95,11 +95,11 @@ export default function LandingPage() {
           handle: "@customer",
           testimonial: "The best financial advisors in Goregaon.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-man-talking-his-wife-while-using-touchpad-meeting-with-real-estate-agent-office_637285-1140.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-man-talking-his-wife-while-using-touchpad-meeting-with-real-estate-agent-office_637285-1140.jpg?_wi=1",
           imageAlt: "finance banking loan professional desk",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/modern-office-composition-with-businessman_23-2147900141.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/modern-office-composition-with-businessman_23-2147900141.jpg?_wi=2"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/portrait-smiling-senior-man-holding-smart-phone_23-2147935571.jpg",
@@ -167,25 +167,25 @@ export default function LandingPage() {
           id: "p1",
           name: "Home Loan",
           price: "Low Interest",
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-couple-receiving-keys-their-new-home-from-realtor_23-2148895470.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-couple-receiving-keys-their-new-home-from-realtor_23-2148895470.jpg?_wi=2",
         },
         {
           id: "p2",
           name: "Mortgage Loan",
           price: "Custom Terms",
-          imageSrc: "http://img.b2bpic.net/free-photo/female-realtor-handshaking-couple-congratulate-them-their-new-house_23-2148895484.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/female-realtor-handshaking-couple-congratulate-them-their-new-house_23-2148895484.jpg?_wi=2",
         },
         {
           id: "p3",
           name: "Gold Loan",
           price: "Instant Funds",
-          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-abstract-with-extruding-blocks_1048-12726.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/3d-render-abstract-with-extruding-blocks_1048-12726.jpg?_wi=2",
         },
         {
           id: "p4",
           name: "Personal Loan",
           price: "Fast Track",
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-man-talking-his-wife-while-using-touchpad-meeting-with-real-estate-agent-office_637285-1140.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-man-talking-his-wife-while-using-touchpad-meeting-with-real-estate-agent-office_637285-1140.jpg?_wi=2",
         },
         {
           id: "p5",
